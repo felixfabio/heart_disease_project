@@ -18,20 +18,21 @@ Pensando nessa situação, o presente projeto possui como principal objetivo, de
 -**3. Primeiro contato com os dados**
 
 -**4. Análise Exploratória dos Dados**
-	--4.1 Buscando correlações
+	
+- 4.1 Buscando correlações
     
 -**5. Pre-processamento dos dados**
-	--5.1 Trabalhando com variáveis categóricas
+- 5.1 Trabalhando com variáveis categóricas
     
 -**6. Avaliação de um modelo protótipo**
 
 -**7. Seleção e avaliação do modelo**
 
 -**8. Tunagem dos Hiperparâmetros dos melhores modelos**
-	--8.1. Tunagem para o modelo de Random Forest
-	--8.2. Tunagem para o modelo de Logistic Regression
+- 8.1. Tunagem para o modelo de Random Forest
+- 8.2. Tunagem para o modelo de Logistic Regression
     
 -**9. Modelo final (modelo_heart_disease)**
 
 -**10. Conclusões finais**
-	--10.1. Possíveis melhoras no modelo
+- 10.1. Possíveis melhoras no modelo
